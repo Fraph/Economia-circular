@@ -1,10 +1,12 @@
-# Sostenibilidad en el desempeño profesional y personal
+# Economia circular
 ## Indice
 1. [Introduccion](introduccion.md)
-2. [Desempeño profesional y personal](desempeño.md)
-3. [Riesgos y oportunidades que presentan los ODS](riesgos.md)
-4. [Medidas y oportunidades para atender los retos ambientales desde el entorno personal y profesional](medidas.md)
-5. [Prácticas sostenibles en ele ambiente personal](practicas.md)
+2. [Concepto de economia circular](concepto.md)
+3. [Modelos de producción actuales y consumismo](modelos.md)
+4. [La economía verde](economia_verde.md)
+5. [Ciclo de vida de un producto](ciclo.md)
+6. [El ecodiseño y las estrategias sostenibles](ecodiseño.md)
+
 ---
 ![introduccion](introduccion.jpg)
 ---
