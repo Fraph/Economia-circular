@@ -5,4 +5,4 @@ Y con estos sistemas me refiero a todo el consumismo basado en producir, usar y 
 Es por ello imprescindible que comencemos a buscar soluciones a este sistema consumista, y asi eliminar este ciclo de malgasto de recursos y de generacion de desechos. En este trabajo hablamos sobre la conocida
 economia circular, una de las soluciones a esta problematica.
 
-![introduccion](introduccion2.jpg)
+![introduccion](img/introduccion2.jpg)
