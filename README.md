@@ -8,10 +8,14 @@
 6. [El ecodiseño y las estrategias sostenibles](ecodiseño.md)
 
 ---
-![introduccion](introduccion.jpg)
+![introduccion](img/introduccion.jpg)
 ---
 [Conclusiones](conclusiones.md)
+
 [Mapa conceptual](mapa.md)
+
 [Glosario](glosario.md)
+
 [Referencias](referencias.md)
+
 [Autores](autores.md)
