@@ -1,5 +1,5 @@
 ### Ciclo de Vida de un Producto
-
+<img src="img/ciclodevida.jpg" alt="ciclodevida" width="400"/>
 El ciclo de vida de un producto es un modelo que describe las etapas que atraviesa un producto desde su lanzamiento hasta su retirada del mercado. Este concepto es fundamental en el ámbito del marketing, ya que ayuda a las empresas a desarrollar estrategias específicas en cada fase para maximizar el rendimiento del producto. Las etapas principales del ciclo de vida de un producto son:
 
 #### 1. **Introducción**
