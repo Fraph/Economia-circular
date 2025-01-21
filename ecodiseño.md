@@ -1,5 +1,5 @@
 ### Ecodiseño y Estrategias Sostenibles  
-<img src="img/ecodiseño.png" alt="ecodiseño" width="400"/>
+<img src="img/ecodiseño.png" alt="ecodiseño" width="650"/>
 El ecodiseño es una metodología que integra criterios ambientales en el proceso de diseño de productos y servicios, con el objetivo de minimizar su impacto ambiental a lo largo de todo su ciclo de vida. Esta práctica va más allá del diseño tradicional, al incorporar estrategias orientadas a la sostenibilidad desde la obtención de materias primas hasta la disposición final del producto. De este modo, no solo se busca la optimización funcional y económica, sino también la contribución activa a la protección del medio ambiente.  
 
 #### Principios Fundamentales del Ecodiseño  
