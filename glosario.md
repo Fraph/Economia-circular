@@ -1,0 +1,22 @@
+# **Glosario**  
+
+- **Automatización:** Proceso mediante el cual se emplean tecnologías para realizar tareas sin intervención humana.  
+- **Consumismo:** Tendencia a la compra excesiva de bienes y servicios, muchas veces impulsada por la publicidad.  
+- **Desechos:** Materiales o productos descartados después de su uso.  
+- **Durabilidad:** Característica de un producto que indica su resistencia al uso prolongado.  
+- **Economía circular:** Modelo económico basado en la reutilización, el reciclaje y la reducción de residuos.  
+- **Economía lineal:** Modelo de producción tradicional basado en *extraer, producir, consumir y desechar.*  
+- **Eficiencia:** Capacidad de lograr un resultado con el menor uso posible de recursos.  
+- **Energías renovables:** Fuentes de energía que se regeneran naturalmente, como la solar y la eólica.  
+- **Innovación:** Introducción de nuevos métodos, productos o ideas para mejorar procesos existentes.  
+- **Materia prima:** Material base utilizado en la fabricación de productos.  
+- **Movilidad sostenible:** Modelos de transporte que reducen el impacto ambiental, como los vehículos eléctricos o compartidos.  
+- **Obsolescencia programada:** Estrategia de diseño en la que los productos tienen una vida útil limitada para incentivar el consumo.  
+- **Producción en masa:** Fabricación de grandes cantidades de un mismo producto para reducir costos.  
+- **Producción Just in Time (JIT):** Sistema de producción que fabrica productos solo cuando hay demanda, minimizando el almacenamiento.  
+- **Producción sostenible:** Modelo de producción que reduce el impacto ambiental mediante el uso eficiente de recursos.  
+- **Reciclaje:** Proceso de transformación de residuos en nuevos materiales o productos.  
+- **Rediseñar:** Modificar un producto para hacerlo más sostenible y eficiente.  
+- **Reducir:** Minimizar el uso de recursos y la generación de residuos.  
+- **Reutilizar:** Dar un nuevo uso a un producto antes de desecharlo.  
+- **Sostenibilidad:** Capacidad de satisfacer las necesidades actuales sin comprometer los recursos del futuro.  
