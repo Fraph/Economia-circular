@@ -10,3 +10,4 @@ Referencias de Francisco Javier Perez:
 Referencias de Javier Rocha:
 
 * [Mailchimp](https://mailchimp.com/es/resources/product-life-cycle/)
+* [Economia](https://www.europarl.europa.eu/topics/es/article/20151201STO05603/economia-circular-definicion-importancia-y-beneficios)
